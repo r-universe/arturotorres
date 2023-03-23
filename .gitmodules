@@ -3,6 +3,11 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "EmiStatR"]
+	path = EmiStatR
+	url = https://github.com/cran/EmiStatR
+	shallow = true
+	registered = true
 [submodule "Watersheds"]
 	path = Watersheds
 	url = https://github.com/arturotorres/watersheds

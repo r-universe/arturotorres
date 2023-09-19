@@ -8,3 +8,6 @@
 [submodule "Watersheds"]
 	path = Watersheds
 	url = https://github.com/arturotorres/watersheds
+[submodule "stUPscales"]
+	path = stUPscales
+	url = https://github.com/arturotorres/stupscales
